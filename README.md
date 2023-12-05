@@ -1,0 +1,1 @@
+/* // https://ss-iptv.com/ru/operators/catchup // niklabs.com/catchup-settings/ // https://lightiptv.cc/playlist/hls/86fzonrydg.m3u8?utc=1666796400&lutc=1666826200 */ ;(function () { 'use strict'; var plugin = { component: 'BeSt_TV', icon: "
